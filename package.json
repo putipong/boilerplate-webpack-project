@@ -1,6 +1,6 @@
 {
     "name": "boilerplate-webpack-project",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "Boilerplace Webpack project",
     "main": "index.js",
     "scripts": {
